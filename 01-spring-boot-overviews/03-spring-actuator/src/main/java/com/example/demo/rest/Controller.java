@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/")
     public String home() {
-        return "<h1>Chonsawat Nakanam</h1>";
+        return "<h1>This is actuator projects</h1>";
     }
 
     @GetMapping("/users")
