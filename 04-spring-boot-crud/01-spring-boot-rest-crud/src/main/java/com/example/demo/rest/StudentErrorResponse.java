@@ -1,4 +1,4 @@
-package com.example.demo.excepion;
+package com.example.demo.rest;
 
 import com.example.demo.entity.Student;
 import lombok.AllArgsConstructor;
